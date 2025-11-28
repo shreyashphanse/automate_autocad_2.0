@@ -1,0 +1,4 @@
+opencv-python>=4.7.0
+numpy>=1.23.0
+ezdxf>=0.17.0
+shapely>=2.0.0
